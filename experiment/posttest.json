@@ -2,39 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The Transfection is the technique which introducing---",
+      "question": "1. The concept that is central to understanding plant cell culture and regeneration",
       "answers": {
-        "a": "Nucleic acids",
-        "b": "DNA",
-        "c": "RNA",
-        "d": "All the above"
+        "a": "Pluripotency and totipotency",
+        "b": "Totipotency and plasticity",
+        "c": "Pluripotency and plasiticity",
+        "d": "Multipotency and totipotency"
       },
-      
-      "correctAnswer": "d",
+ 
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
     {
-      "question": "2. After adding transfection reagent how long it will take for complex formation?",
+      "question": "2. What is the concept that is central to understand plant cell culture and regeneration?  ",
       "answers": {
-        "a": "5 minute",
-        "b": "10 minute",
-        "c": "15 minute",
-        "d": "20 minute"
+        "a": "Pluripotency and totipotency",
+        "b": "Totipotency and plasticity",
+        "c": "Pluripotency and placiticity",
+        "d": "Multipotency and totipotency"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
 
     {
-      "question": "3. How can we monitor the transfection efficiency?",
+      "question": "3. What is the ultimate use of chlorate bleach solution?",
       "answers": {
-        "a": "GFP",
-        "b": "HEK",
-        "c": "CHO",
-        "d": "None of these"
+        "a": "Disinfection",
+        "b": "Sterilization",
+        "c": "Only a",
+        "d": "Both a and b"
       },
      
       "correctAnswer": "a",

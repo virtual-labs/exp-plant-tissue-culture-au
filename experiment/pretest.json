@@ -2,42 +2,42 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The Transfection is the technique which introducing---",
+      "question": "1. Which process will help you if you want to genetically modify the productive properties of a plant?",
       "answers": {
-        "a": "Nucleic acids",
-        "b": "DNA",
-        "c": "RNA",
+        "a": "Photosynthesis",
+        "b": "Plant Tissue culture",
+        "c": "Both a and b",
         "d": "All the above"
       },
-      
-      "correctAnswer": "d",
+ 
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
     {
-      "question": "2. After adding transfection reagent how long it will take for complex formation?",
+      "question": "2. What is the concept that is central to understand plant cell culture and regeneration?  ",
       "answers": {
-        "a": "5 minute",
-        "b": "10 minute",
-        "c": "15 minute",
-        "d": "20 minute"
+        "a": "Pluripotency and totipotency",
+        "b": "Totipotency and plasticity",
+        "c": "Pluripotency and placiticity",
+        "d": "Multipotency and totipotency"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
 
     {
-      "question": "3. How can we monitor the transfection efficiency?",
+      "question": "3. Name the substance added to the culture media that induce callus induction?",
       "answers": {
-        "a": "GFP",
-        "b": "HEK",
-        "c": "CHO",
+        "a": "Auxins and giberellines",
+        "b": "Giberellins and cytokinin",
+        "c": "Auxins and cytokinin",
         "d": "None of these"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
